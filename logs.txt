@@ -1,0 +1,15 @@
+*   f2b14da Merge branch '1-remove-a-task-by-name'
+|\  
+| * daed961 Implement removeTask
+* |   fc891d7 Merge pull request #11 from itztinq/6-find-the-highest-priority-unfinished-task
+|\ \  
+| * | 1b054c3 Implement getMostUrgentTasks
+| |/  
+* |   7df7ab8 Merge pull request #12 from itztinq/8-mark-a-task-as-completed-by-name
+|\ \  
+| |/  
+|/|   
+| * 82f0dc3 Implement markTaskCompleted
+|/  
+* 064338e Add starter code
+* 4a48fbc Initial commit
